@@ -9,3 +9,5 @@ Directions to pull Organization Website to have a local repo on your computer
 
 
 Now we will all take turns to make changes to the repo and push your changes 
+
+https://git-scm.com/download/mac
